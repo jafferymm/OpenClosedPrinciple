@@ -1,0 +1,5 @@
+C:\Users\jaffe\source\repos\DesignPatterns\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe.config
+C:\Users\jaffe\source\repos\DesignPatterns\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe
+C:\Users\jaffe\source\repos\DesignPatterns\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.pdb
+C:\Users\jaffe\source\repos\DesignPatterns\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.exe
+C:\Users\jaffe\source\repos\DesignPatterns\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.pdb
